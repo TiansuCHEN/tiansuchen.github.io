@@ -3,7 +3,7 @@ title: "FocusFlow: 3D Gaze-Depth Interaction in Virtual Reality Leveraging Activ
 collection: publications
 category: conferences
 permalink: /publication/2024-05-11-FocusFlow-CHI
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Full paper on a novel gaze interaction model utilizing gaze depth with complete user study and analysis.'
 date: 2024-05-11
 venue: 'ACM Conference on Human Factors in Computing Systems (CHI)'
 paperurl: 'http://tiansuchen.github.io/files/FocusFlow_CHI.pdf'
