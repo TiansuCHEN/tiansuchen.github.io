@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tiansu Chen"
-  pronouns         : "he/him"  
+  # pronouns         : "he/him"  
   bio              : "HCI & AR/VR Researcher"
   location         : "Champaign, IL"
-  employer         : "University of Illinois Urbana-Champaign"
+  # employer         : "University of Illinois Urbana-Champaign"
   email            : "tiansuc2@illinois.edu" 
 
   # Academic websites
