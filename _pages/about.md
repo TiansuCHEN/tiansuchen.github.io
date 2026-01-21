@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an eXtended Reality (XR) Research Assistant in [Health Care Engineering Systems Center](https://healtheng.illinois.edu/) at University of Illinois Urbana-Champaign (UIUC), focusing on Human-Computer Interaction and AR/VR simulation in medical training and diagnosis, under the supervision of Prof. [Inki Kim](https://grainger.illinois.edu/about/directory/faculty/inkikim). 
+I am a first-year Ph.D. student in Visual Computing and Interactive Media at [Texas A&M University](https://www.tamu.edu/index.html), supervised by Prof. [Wai Tong](https://wtong2017.github.io/) in the [VVAI Lab](https://vvai-lab.github.io/). My research focuses on Human–Computer Interaction (HCI) in Augmented and Virtual Reality (AR/VR), with an emphasis on designing and understanding interaction techniques for immersive and spatial computing environments.
 
-I earned my Master's degree in Computer Science from UIUC, where I worked with Prof. [Elahé Soltanaghai](https://elahe.web.illinois.edu/). Prior to that, I completed my undergraduate studies at ShanghaiTech University, working under the guidance of Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
+I earned my Master's degree in Computer Science from UIUC, where I worked with Prof. [Elahé Soltanaghai](https://elahe.web.illinois.edu/) and Prof. [Inki Kim](https://grainger.illinois.edu/about/directory/faculty/inkikim). Prior to that, I completed my undergraduate studies at ShanghaiTech University, working under the guidance of Prof. [Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 
-My research interest lies in Human-Computer Interaction, Spatial Computing, AR/VR Simulation and Human-AI Collaboration.
+My research interests lie in Human–Computer Interaction, Spatial Computing, AR/VR simulation, and Data Visualization. I am particularly interested in exploring how emerging immersive technologies can redefine interaction paradigms and how we can design intuitive, human-centered systems at this early stage of AR/VR development.
