@@ -14,8 +14,8 @@ main:
   # - title: "Projects"
   #   url: /projects/
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
     
   - title: "CV"
     url: /files/Curriculum_Vitae_Tiansu_Chen.pdf
